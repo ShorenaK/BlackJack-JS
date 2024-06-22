@@ -1,0 +1,43 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("images/image1.jpeg");
+    background-size: cover;
+    background-size: 100%;
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+}
+
+h3 {
+    color: gold;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.container > p, h3, h4, h5{
+    align-items: flex-center;
+    align-self: center;
+
+}
+
+button {
+    width: 120px;
+    align-items: flex-center;
+    align-self: center;
+    margin-top: 10px;
+    color: crimson;
+    text-decoration-color: brown;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    background-color: goldenrod;
+    font-weight: bold;
+    border-radius: 4px;
+}
