@@ -1,4 +1,3 @@
-let chips = 50
 let sum = 0 // updated in the kikkOff function
 let sumDlCards = 0
 let hasBlackJack = false// game has not started no blackjack

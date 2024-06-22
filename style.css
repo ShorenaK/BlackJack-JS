@@ -9,7 +9,9 @@ body{
     color: white;
     font-weight: bold;
 }
-
+#dealer_card{
+    margin-top: 300px;
+}
 h3 {
     color: gold;
     display: flex;
